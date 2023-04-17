@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'Mơ đii nhaa :3',
     question: 'Trên thế giới hơn 8 tỉ người mà sao bạn lại nhớ đến mình vậy heheee',
     btnReply: 'Gửi cho mình <3',
-    reply: 'Vì bạn đẹp trai quá ',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'Vì bạn đẹp trai quá nên mình bi xao xuyến nhớ nhung ngày sang đêmm',
+    mess: 'Mình biết mà hihii 🥰. moahh yeuuu chụt chụt 😘😘',
+    messDesc: 'Còn đợi chờ gì nữa mà không ib cho mình nàoo',
+    btnAccept: 'Okiiiii lun. yeuuuu <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
